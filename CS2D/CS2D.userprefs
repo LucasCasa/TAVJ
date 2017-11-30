@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Client.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Server/Player.cs" Line="110" Column="2" />
+      <File FileName="Assets/Scripts/Server.cs" Line="149" Column="1" />
+      <File FileName="Assets/Scripts/Client.cs" Line="84" Column="2" />
+      <File FileName="Assets/Scripts/Client/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameMessage.cs" Line="8" Column="28" />
+      <File FileName="Assets/Scripts/Game Messages/ConnectPlayerMessage.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/Game Messages/PlayerDisconnectedMessage.cs" Line="8" Column="41" />
+      <File FileName="Assets/Scripts/Client/SnapshotManager.cs" Line="28" Column="20" />
+      <File FileName="Assets/Scripts/Server/GameData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Messages/AckReliableMessage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lcasagrande/ITBA/TAVJ/CS2D/Assets/Scripts/Client.cs" line="43" column="1" />
+      <Breakpoint file="/Users/lcasagrande/ITBA/TAVJ/CS2D/Assets/Scripts/Client.cs" line="33" column="1" />
+      <Breakpoint file="/Users/lcasagrande/ITBA/TAVJ/CS2D/Assets/Scripts/Client.cs" line="31" column="1" />
+      <Breakpoint file="/Users/lcasagrande/ITBA/TAVJ/CS2D/Assets/Scripts/Client.cs" line="60" column="1" />
+      <Breakpoint file="/Users/lcasagrande/ITBA/TAVJ/CS2D/Assets/Scripts/Client.cs" line="64" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
